@@ -680,14 +680,6 @@
     "category": "Smileys & Emotion"
   },
   {
-    "no": 86,
-    "codes": "1F971",
-    "char": "🥱",
-    "name": "⊛ yawning face",
-    "keywords": "bored | tired | yawn | yawning face",
-    "category": "Smileys & Emotion"
-  },
-  {
     "no": 87,
     "codes": "1F624",
     "char": "😤",
@@ -1056,27 +1048,11 @@
     "category": "Smileys & Emotion"
   },
   {
-    "no": 133,
-    "codes": "1F90E",
-    "char": "🤎",
-    "name": "⊛ brown heart",
-    "keywords": "brown | heart",
-    "category": "Smileys & Emotion"
-  },
-  {
     "no": 134,
     "codes": "1F5A4",
     "char": "🖤",
     "name": "black heart",
     "keywords": "black | black heart | evil | wicked",
-    "category": "Smileys & Emotion"
-  },
-  {
-    "no": 135,
-    "codes": "1F90D",
-    "char": "🤍",
-    "name": "⊛ white heart",
-    "keywords": "heart | white",
     "category": "Smileys & Emotion"
   },
   {
@@ -1237,14 +1213,6 @@
     "char": "👌",
     "name": "OK hand",
     "keywords": "hand | OK",
-    "category": "People & Body"
-  },
-  {
-    "no": 156,
-    "codes": "1F90F",
-    "char": "🤏",
-    "name": "⊛ pinching hand",
-    "keywords": "pinching hand | small amount",
     "category": "People & Body"
   },
   {
@@ -1464,22 +1432,6 @@
     "category": "People & Body"
   },
   {
-    "no": 184,
-    "codes": "1F9BE",
-    "char": "🦾",
-    "name": "⊛ mechanical arm",
-    "keywords": "accessibility | mechanical arm | prosthetic",
-    "category": "People & Body"
-  },
-  {
-    "no": 185,
-    "codes": "1F9BF",
-    "char": "🦿",
-    "name": "⊛ mechanical leg",
-    "keywords": "accessibility | mechanical leg | prosthetic",
-    "category": "People & Body"
-  },
-  {
     "no": 186,
     "codes": "1F9B5",
     "char": "🦵",
@@ -1501,14 +1453,6 @@
     "char": "👂",
     "name": "ear",
     "keywords": "body | ear",
-    "category": "People & Body"
-  },
-  {
-    "no": 189,
-    "codes": "1F9BB",
-    "char": "🦻",
-    "name": "⊛ ear with hearing aid",
-    "keywords": "accessibility | ear with hearing aid | hard of hearing",
     "category": "People & Body"
   },
   {
@@ -1893,30 +1837,6 @@
     "char": "🙋‍♀️",
     "name": "woman raising hand",
     "keywords": "gesture | raising hand | woman | woman raising hand",
-    "category": "People & Body"
-  },
-  {
-    "no": 238,
-    "codes": "1F9CF",
-    "char": "🧏",
-    "name": "⊛ deaf person",
-    "keywords": "accessibility | deaf | deaf person | ear | hear",
-    "category": "People & Body"
-  },
-  {
-    "no": 239,
-    "codes": "1F9CF 200D 2642 FE0F",
-    "char": "🧏‍♂️",
-    "name": "⊛ deaf man",
-    "keywords": "deaf | man",
-    "category": "People & Body"
-  },
-  {
-    "no": 240,
-    "codes": "1F9CF 200D 2640 FE0F",
-    "char": "🧏‍♀️",
-    "name": "⊛ deaf woman",
-    "keywords": "deaf | woman",
     "category": "People & Body"
   },
   {
@@ -2744,102 +2664,6 @@
     "category": "People & Body"
   },
   {
-    "no": 344,
-    "codes": "1F9CD",
-    "char": "🧍",
-    "name": "⊛ person standing",
-    "keywords": "person standing | stand | standing",
-    "category": "People & Body"
-  },
-  {
-    "no": 345,
-    "codes": "1F9CD 200D 2642 FE0F",
-    "char": "🧍‍♂️",
-    "name": "⊛ man standing",
-    "keywords": "man | standing",
-    "category": "People & Body"
-  },
-  {
-    "no": 346,
-    "codes": "1F9CD 200D 2640 FE0F",
-    "char": "🧍‍♀️",
-    "name": "⊛ woman standing",
-    "keywords": "standing | woman",
-    "category": "People & Body"
-  },
-  {
-    "no": 347,
-    "codes": "1F9CE",
-    "char": "🧎",
-    "name": "⊛ person kneeling",
-    "keywords": "kneel | kneeling | person kneeling",
-    "category": "People & Body"
-  },
-  {
-    "no": 348,
-    "codes": "1F9CE 200D 2642 FE0F",
-    "char": "🧎‍♂️",
-    "name": "⊛ man kneeling",
-    "keywords": "kneeling | man",
-    "category": "People & Body"
-  },
-  {
-    "no": 349,
-    "codes": "1F9CE 200D 2640 FE0F",
-    "char": "🧎‍♀️",
-    "name": "⊛ woman kneeling",
-    "keywords": "kneeling | woman",
-    "category": "People & Body"
-  },
-  {
-    "no": 350,
-    "codes": "1F468 200D 1F9AF",
-    "char": "👨‍🦯",
-    "name": "⊛ man with probing cane",
-    "keywords": "accessibility | blind | man | man with probing cane",
-    "category": "People & Body"
-  },
-  {
-    "no": 351,
-    "codes": "1F469 200D 1F9AF",
-    "char": "👩‍🦯",
-    "name": "⊛ woman with probing cane",
-    "keywords": "accessibility | blind | woman | woman with probing cane",
-    "category": "People & Body"
-  },
-  {
-    "no": 352,
-    "codes": "1F468 200D 1F9BC",
-    "char": "👨‍🦼",
-    "name": "⊛ man in motorized wheelchair",
-    "keywords": "accessibility | man | man in motorized wheelchair | wheelchair",
-    "category": "People & Body"
-  },
-  {
-    "no": 353,
-    "codes": "1F469 200D 1F9BC",
-    "char": "👩‍🦼",
-    "name": "⊛ woman in motorized wheelchair",
-    "keywords": "accessibility | wheelchair | woman | woman in motorized wheelchair",
-    "category": "People & Body"
-  },
-  {
-    "no": 354,
-    "codes": "1F468 200D 1F9BD",
-    "char": "👨‍🦽",
-    "name": "⊛ man in manual wheelchair",
-    "keywords": "accessibility | man | man in manual wheelchair | wheelchair",
-    "category": "People & Body"
-  },
-  {
-    "no": 355,
-    "codes": "1F469 200D 1F9BD",
-    "char": "👩‍🦽",
-    "name": "⊛ woman in manual wheelchair",
-    "keywords": "accessibility | wheelchair | woman | woman in manual wheelchair",
-    "category": "People & Body"
-  },
-  {
     "no": 356,
     "codes": "1F3C3",
     "char": "🏃",
@@ -3344,14 +3168,6 @@
     "category": "People & Body"
   },
   {
-    "no": 419,
-    "codes": "1F9D1 200D 1F91D 200D 1F9D1",
-    "char": "🧑‍🤝‍🧑",
-    "name": "⊛ people holding hands",
-    "keywords": "couple | hand | hold | holding hands | people holding hands | person",
-    "category": "People & Body"
-  },
-  {
     "no": 420,
     "codes": "1F46D",
     "char": "👭",
@@ -3736,14 +3552,6 @@
     "category": "Animals & Nature"
   },
   {
-    "no": 468,
-    "codes": "1F9A7",
-    "char": "🦧",
-    "name": "⊛ orangutan",
-    "keywords": "ape | orangutan",
-    "category": "Animals & Nature"
-  },
-  {
     "no": 469,
     "codes": "1F436",
     "char": "🐶",
@@ -3757,22 +3565,6 @@
     "char": "🐕",
     "name": "dog",
     "keywords": "dog | pet",
-    "category": "Animals & Nature"
-  },
-  {
-    "no": 471,
-    "codes": "1F9AE",
-    "char": "🦮",
-    "name": "⊛ guide dog",
-    "keywords": "accessibility | blind | guide | guide dog",
-    "category": "Animals & Nature"
-  },
-  {
-    "no": 472,
-    "codes": "1F415 200D 1F9BA",
-    "char": "🐕‍🦺",
-    "name": "⊛ service dog",
-    "keywords": "accessibility | assistance | dog | service",
     "category": "Animals & Nature"
   },
   {
@@ -4136,30 +3928,6 @@
     "category": "Animals & Nature"
   },
   {
-    "no": 518,
-    "codes": "1F9A5",
-    "char": "🦥",
-    "name": "⊛ sloth",
-    "keywords": "lazy | sloth | slow",
-    "category": "Animals & Nature"
-  },
-  {
-    "no": 519,
-    "codes": "1F9A6",
-    "char": "🦦",
-    "name": "⊛ otter",
-    "keywords": "fishing | otter | playful",
-    "category": "Animals & Nature"
-  },
-  {
-    "no": 520,
-    "codes": "1F9A8",
-    "char": "🦨",
-    "name": "⊛ skunk",
-    "keywords": "skunk | stink",
-    "category": "Animals & Nature"
-  },
-  {
     "no": 521,
     "codes": "1F998",
     "char": "🦘",
@@ -4285,14 +4053,6 @@
     "char": "🦉",
     "name": "owl",
     "keywords": "bird | owl | wise",
-    "category": "Animals & Nature"
-  },
-  {
-    "no": 537,
-    "codes": "1F9A9",
-    "char": "🦩",
-    "name": "⊛ flamingo",
-    "keywords": "flamboyant | flamingo | tropical",
     "category": "Animals & Nature"
   },
   {
@@ -4936,22 +4696,6 @@
     "category": "Food & Drink"
   },
   {
-    "no": 618,
-    "codes": "1F9C4",
-    "char": "🧄",
-    "name": "⊛ garlic",
-    "keywords": "flavoring | garlic",
-    "category": "Food & Drink"
-  },
-  {
-    "no": 619,
-    "codes": "1F9C5",
-    "char": "🧅",
-    "name": "⊛ onion",
-    "keywords": "flavoring | onion",
-    "category": "Food & Drink"
-  },
-  {
     "no": 620,
     "codes": "1F344",
     "char": "🍄",
@@ -5021,14 +4765,6 @@
     "char": "🥞",
     "name": "pancakes",
     "keywords": "crêpe | food | hotcake | pancake | pancakes",
-    "category": "Food & Drink"
-  },
-  {
-    "no": 629,
-    "codes": "1F9C7",
-    "char": "🧇",
-    "name": "⊛ waffle",
-    "keywords": "indecisive | iron | waffle",
     "category": "Food & Drink"
   },
   {
@@ -5136,14 +4872,6 @@
     "category": "Food & Drink"
   },
   {
-    "no": 643,
-    "codes": "1F9C6",
-    "char": "🧆",
-    "name": "⊛ falafel",
-    "keywords": "chickpea | falafel | meatball",
-    "category": "Food & Drink"
-  },
-  {
     "no": 644,
     "codes": "1F95A",
     "char": "🥚",
@@ -5197,14 +4925,6 @@
     "char": "🍿",
     "name": "popcorn",
     "keywords": "popcorn",
-    "category": "Food & Drink"
-  },
-  {
-    "no": 651,
-    "codes": "1F9C8",
-    "char": "🧈",
-    "name": "⊛ butter",
-    "keywords": "butter | dairy",
     "category": "Food & Drink"
   },
   {
@@ -5389,14 +5109,6 @@
     "char": "🦑",
     "name": "squid",
     "keywords": "food | molusc | squid",
-    "category": "Food & Drink"
-  },
-  {
-    "no": 675,
-    "codes": "1F9AA",
-    "char": "🦪",
-    "name": "⊛ oyster",
-    "keywords": "diving | oyster | pearl",
     "category": "Food & Drink"
   },
   {
@@ -5621,30 +5333,6 @@
     "char": "🥤",
     "name": "cup with straw",
     "keywords": "cup with straw | juice | soda | malt | soft drink | water",
-    "category": "Food & Drink"
-  },
-  {
-    "no": 704,
-    "codes": "1F9C3",
-    "char": "🧃",
-    "name": "⊛ beverage box",
-    "keywords": "beverage box | juice box",
-    "category": "Food & Drink"
-  },
-  {
-    "no": 705,
-    "codes": "1F9C9",
-    "char": "🧉",
-    "name": "⊛ mate",
-    "keywords": "drink | mate",
-    "category": "Food & Drink"
-  },
-  {
-    "no": 706,
-    "codes": "1F9CA",
-    "char": "🧊",
-    "name": "⊛ ice",
-    "keywords": "cold | ice | ice cube | iceberg",
     "category": "Food & Drink"
   },
   {
@@ -6029,14 +5717,6 @@
     "char": "🕌",
     "name": "mosque",
     "keywords": "islam | mosque | Muslim | religion",
-    "category": "Travel & Places"
-  },
-  {
-    "no": 755,
-    "codes": "1F6D5",
-    "char": "🛕",
-    "name": "⊛ hindu temple",
-    "keywords": "hindu | temple",
     "category": "Travel & Places"
   },
   {
@@ -6440,30 +6120,6 @@
     "category": "Travel & Places"
   },
   {
-    "no": 806,
-    "codes": "1F9BD",
-    "char": "🦽",
-    "name": "⊛ manual wheelchair",
-    "keywords": "accessibility | manual wheelchair",
-    "category": "Travel & Places"
-  },
-  {
-    "no": 807,
-    "codes": "1F9BC",
-    "char": "🦼",
-    "name": "⊛ motorized wheelchair",
-    "keywords": "accessibility | motorized wheelchair",
-    "category": "Travel & Places"
-  },
-  {
-    "no": 808,
-    "codes": "1F6FA",
-    "char": "🛺",
-    "name": "⊛ auto rickshaw",
-    "keywords": "auto rickshaw | tuk tuk",
-    "category": "Travel & Places"
-  },
-  {
     "no": 809,
     "codes": "1F6B2",
     "char": "🚲",
@@ -6661,14 +6317,6 @@
     "char": "🛬",
     "name": "airplane arrival",
     "keywords": "aeroplane | airplane | airplane arrival | arrivals | arriving | landing",
-    "category": "Travel & Places"
-  },
-  {
-    "no": 834,
-    "codes": "1FA82",
-    "char": "🪂",
-    "name": "⊛ parachute",
-    "keywords": "hang-glide | parachute | parasail | skydive",
     "category": "Travel & Places"
   },
   {
@@ -7125,14 +6773,6 @@
     "char": "🌞",
     "name": "sun with face",
     "keywords": "bright | face | sun | sun with face",
-    "category": "Travel & Places"
-  },
-  {
-    "no": 892,
-    "codes": "1FA90",
-    "char": "🪐",
-    "name": "⊛ ringed planet",
-    "keywords": "ringed planet | saturn | saturnine",
     "category": "Travel & Places"
   },
   {
@@ -7768,14 +7408,6 @@
     "category": "Activities"
   },
   {
-    "no": 972,
-    "codes": "1F93F",
-    "char": "🤿",
-    "name": "⊛ diving mask",
-    "keywords": "diving | diving mask | scuba | snorkeling",
-    "category": "Activities"
-  },
-  {
     "no": 973,
     "codes": "1F3BD",
     "char": "🎽",
@@ -7813,22 +7445,6 @@
     "char": "🎯",
     "name": "direct hit",
     "keywords": "bullseye | dart | direct hit | game | hit | target",
-    "category": "Activities"
-  },
-  {
-    "no": 978,
-    "codes": "1FA80",
-    "char": "🪀",
-    "name": "⊛ yo-yo",
-    "keywords": "fluctuate | toy | yo-yo",
-    "category": "Activities"
-  },
-  {
-    "no": 979,
-    "codes": "1FA81",
-    "char": "🪁",
-    "name": "⊛ kite",
-    "keywords": "fly | kite | soar",
     "category": "Activities"
   },
   {
@@ -8040,14 +7656,6 @@
     "category": "Objects"
   },
   {
-    "no": 1006,
-    "codes": "1F9BA",
-    "char": "🦺",
-    "name": "⊛ safety vest",
-    "keywords": "emergency | safety | vest\n➯ Used in a ZWJ sequence for service dog",
-    "category": "Objects"
-  },
-  {
     "no": 1007,
     "codes": "1F454",
     "char": "👔",
@@ -8117,38 +7725,6 @@
     "char": "👘",
     "name": "kimono",
     "keywords": "clothing | kimono",
-    "category": "Objects"
-  },
-  {
-    "no": 1016,
-    "codes": "1F97B",
-    "char": "🥻",
-    "name": "⊛ sari",
-    "keywords": "clothing | dress | sari",
-    "category": "Objects"
-  },
-  {
-    "no": 1017,
-    "codes": "1FA71",
-    "char": "🩱",
-    "name": "⊛ one-piece swimsuit",
-    "keywords": "bathing suit | one-piece swimsuit | swimsuit",
-    "category": "Objects"
-  },
-  {
-    "no": 1018,
-    "codes": "1FA72",
-    "char": "🩲",
-    "name": "⊛ briefs",
-    "keywords": "bathing suit | briefs | one-piece | swimsuit | underwear",
-    "category": "Objects"
-  },
-  {
-    "no": 1019,
-    "codes": "1FA73",
-    "char": "🩳",
-    "name": "⊛ shorts",
-    "keywords": "bathing suit | pants | shorts | underwear | swimsuit",
     "category": "Objects"
   },
   {
@@ -8253,14 +7829,6 @@
     "char": "👡",
     "name": "woman’s sandal",
     "keywords": "clothing | sandal | shoe | woman | woman’s sandal",
-    "category": "Objects"
-  },
-  {
-    "no": 1033,
-    "codes": "1FA70",
-    "char": "🩰",
-    "name": "⊛ ballet shoes",
-    "keywords": "ballet | ballet shoes | dance",
     "category": "Objects"
   },
   {
@@ -8533,14 +8101,6 @@
     "char": "🎻",
     "name": "violin",
     "keywords": "instrument | music | violin",
-    "category": "Objects"
-  },
-  {
-    "no": 1068,
-    "codes": "1FA95",
-    "char": "🪕",
-    "name": "⊛ banjo",
-    "keywords": "banjo | music | stringed",
     "category": "Objects"
   },
   {
@@ -8821,14 +8381,6 @@
     "char": "🏮",
     "name": "red paper lantern",
     "keywords": "bar | lantern | light | red | red paper lantern",
-    "category": "Objects"
-  },
-  {
-    "no": 1104,
-    "codes": "1FA94",
-    "char": "🪔",
-    "name": "⊛ diya lamp",
-    "keywords": "diya | lamp | oil",
     "category": "Objects"
   },
   {
@@ -9456,14 +9008,6 @@
     "category": "Objects"
   },
   {
-    "no": 1183,
-    "codes": "1FA93",
-    "char": "🪓",
-    "name": "⊛ axe",
-    "keywords": "axe | chop | hatchet | split | wood",
-    "category": "Objects"
-  },
-  {
     "no": 1184,
     "codes": "26CF",
     "char": "⛏",
@@ -9568,14 +9112,6 @@
     "category": "Objects"
   },
   {
-    "no": 1197,
-    "codes": "1F9AF",
-    "char": "🦯",
-    "name": "⊛ probing cane",
-    "keywords": "accessibility | blind | probing cane",
-    "category": "Objects"
-  },
-  {
     "no": 1198,
     "codes": "1F517",
     "char": "🔗",
@@ -9672,35 +9208,11 @@
     "category": "Objects"
   },
   {
-    "no": 1210,
-    "codes": "1FA78",
-    "char": "🩸",
-    "name": "⊛ drop of blood",
-    "keywords": "bleed | blood donation | drop of blood | injury | medicine | menstruation",
-    "category": "Objects"
-  },
-  {
     "no": 1211,
     "codes": "1F48A",
     "char": "💊",
     "name": "pill",
     "keywords": "doctor | medicine | pill | sick",
-    "category": "Objects"
-  },
-  {
-    "no": 1212,
-    "codes": "1FA79",
-    "char": "🩹",
-    "name": "⊛ adhesive bandage",
-    "keywords": "adhesive bandage | bandage",
-    "category": "Objects"
-  },
-  {
-    "no": 1213,
-    "codes": "1FA7A",
-    "char": "🩺",
-    "name": "⊛ stethoscope",
-    "keywords": "doctor | heart | medicine | stethoscope",
     "category": "Objects"
   },
   {
@@ -9728,14 +9240,6 @@
     "category": "Objects"
   },
   {
-    "no": 1217,
-    "codes": "1FA91",
-    "char": "🪑",
-    "name": "⊛ chair",
-    "keywords": "chair | seat | sit",
-    "category": "Objects"
-  },
-  {
     "no": 1218,
     "codes": "1F6BD",
     "char": "🚽",
@@ -9757,14 +9261,6 @@
     "char": "🛁",
     "name": "bathtub",
     "keywords": "bath | bathtub",
-    "category": "Objects"
-  },
-  {
-    "no": 1221,
-    "codes": "1FA92",
-    "char": "🪒",
-    "name": "⊛ razor",
-    "keywords": "razor | sharp | shave",
     "category": "Objects"
   },
   {
@@ -11344,51 +10840,11 @@
     "category": "Symbols"
   },
   {
-    "no": 1419,
-    "codes": "1F7E0",
-    "char": "🟠",
-    "name": "⊛ orange circle",
-    "keywords": "circle | orange",
-    "category": "Symbols"
-  },
-  {
-    "no": 1420,
-    "codes": "1F7E1",
-    "char": "🟡",
-    "name": "⊛ yellow circle",
-    "keywords": "circle | yellow",
-    "category": "Symbols"
-  },
-  {
-    "no": 1421,
-    "codes": "1F7E2",
-    "char": "🟢",
-    "name": "⊛ green circle",
-    "keywords": "circle | green",
-    "category": "Symbols"
-  },
-  {
     "no": 1422,
     "codes": "1F535",
     "char": "🔵",
     "name": "blue circle",
     "keywords": "blue | circle | geometric",
-    "category": "Symbols"
-  },
-  {
-    "no": 1423,
-    "codes": "1F7E3",
-    "char": "🟣",
-    "name": "⊛ purple circle",
-    "keywords": "circle | purple",
-    "category": "Symbols"
-  },
-  {
-    "no": 1424,
-    "codes": "1F7E4",
-    "char": "🟤",
-    "name": "⊛ brown circle",
-    "keywords": "brown | circle",
     "category": "Symbols"
   },
   {
@@ -11405,62 +10861,6 @@
     "char": "⚪",
     "name": "white circle",
     "keywords": "circle | geometric | white circle",
-    "category": "Symbols"
-  },
-  {
-    "no": 1427,
-    "codes": "1F7E5",
-    "char": "🟥",
-    "name": "⊛ red square",
-    "keywords": "red | square",
-    "category": "Symbols"
-  },
-  {
-    "no": 1428,
-    "codes": "1F7E7",
-    "char": "🟧",
-    "name": "⊛ orange square",
-    "keywords": "orange | square",
-    "category": "Symbols"
-  },
-  {
-    "no": 1429,
-    "codes": "1F7E8",
-    "char": "🟨",
-    "name": "⊛ yellow square",
-    "keywords": "square | yellow",
-    "category": "Symbols"
-  },
-  {
-    "no": 1430,
-    "codes": "1F7E9",
-    "char": "🟩",
-    "name": "⊛ green square",
-    "keywords": "green | square",
-    "category": "Symbols"
-  },
-  {
-    "no": 1431,
-    "codes": "1F7E6",
-    "char": "🟦",
-    "name": "⊛ blue square",
-    "keywords": "blue | square",
-    "category": "Symbols"
-  },
-  {
-    "no": 1432,
-    "codes": "1F7EA",
-    "char": "🟪",
-    "name": "⊛ purple square",
-    "keywords": "purple | square",
-    "category": "Symbols"
-  },
-  {
-    "no": 1433,
-    "codes": "1F7EB",
-    "char": "🟫",
-    "name": "⊛ brown square",
-    "keywords": "brown | square",
     "category": "Symbols"
   },
   {
